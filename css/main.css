@@ -33,3 +33,11 @@ article {
 .record div {
     padding: 5em;
 }
+.record h2 {
+    padding: 0em 5em;
+}
+
+
+li {
+    padding: 1em;
+}
