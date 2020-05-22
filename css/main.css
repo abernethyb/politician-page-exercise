@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(133, 55, 45);
+}
+article {
+    background-color: rgb(126, 95, 91);
+    display: flex;
+    width: 100%;
+}
+
+.image img {
+    border-radius: 100%;
+    background-color:  rgb(184, 121, 112);
+}
+
+}
+.basic-info {
+    background-color:  rgb(184, 121, 112);
+    flex: 3;
+    margin: 1em;
+}
+.basic-info div {
+    padding: 0.1em 3em;
+    margin: 0em;
+}
+
+.record{
+    background-color:  rgb(153, 105, 100);
+    flex: 1;
+    margin: 1em;
+    overflow: scroll;
+    height: 60em;
+}
+.record div {
+    padding: 5em;
+}
